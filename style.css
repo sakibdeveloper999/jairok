@@ -1,0 +1,14 @@
+/*
+  Theme Name: Jairok Theme Tailwind
+  Author: Brad
+  Author URI: https://github.com/sakibdeveloper999
+  Description: A Tailwind CSS based WordPress theme
+  Version: 1.0.0
+  License: GNU General Public License v2 or later
+  License URI: http://www.gnu.org/licenses/gpl-2.0.html
+  Text Domain: jairok
+*/
+
+/* This file only exists for the sake of WordPress recognizing our theme / theme name etc... */
+
+/* We do not include CSS here and also WordPress will not load this file on the front-end */
